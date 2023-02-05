@@ -1,2 +1,1 @@
-# Kingdom-s-Hunter
-First-year university project by 4 friends. A fun and interactive game made with Unity. Showcases our coding and game dev skills. Collaborative effort leads to great results! Play and enjoy.
+Projet universitaire de 1re année réalisé par 4 amis. Un jeu amusant et interactif créé avec [langage/moteur]. Met en valeur nos compétences en codage et développement de jeux. Effort collaboratif pour un grand résultat! Jouez et profitez.
