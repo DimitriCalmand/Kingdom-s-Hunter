@@ -1,1 +1,1 @@
-Projet universitaire de 1re année réalisé par 4 amis. Un jeu amusant et interactif créé avec [langage/moteur]. Met en valeur nos compétences en codage et développement de jeux. Effort collaboratif pour un grand résultat! Jouez et profitez.
+Projet universitaire de 1re année réalisé par 4 amis. Un jeu amusant et interactif créé avec Unity. Met en valeur nos compétences en codage et développement de jeux. Effort collaboratif pour un grand résultat! Jouez et profitez.
